@@ -1,0 +1,17 @@
+.container{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+.btn{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 1rem;
+    text-transform: uppercase;
+}
